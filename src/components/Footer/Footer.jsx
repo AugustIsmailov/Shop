@@ -18,7 +18,7 @@ const Footer = () => {
 
       <div className={styles.rights}>
         Developed by{' '}
-        <a href="" target="_blank" rel="noreferrer">
+        <a href="https://github.com/AugustIsmailov" target="_blank" rel="noreferrer">
           August
         </a>{' '}
         StarBoy
